@@ -16,7 +16,7 @@ jar {
     baseName = 'gs-securing-web'
     version =  '0.1.0'
      manifest {
-        attributes 'Main-Class': 'hello.Application'
+        attributes 'Main-Class': 'main.java.hello.Application'
     }
 
 }
